@@ -1,0 +1,37 @@
+1st Milestone
+Open Firebase.google.com
+Signin using your gmail
+Add Project
+
+2nd Milestones
+Open Nodejs.org
+Download Stable Version
+Install
+
+3rd Milestones
+Open CMD with using run as administrator
+Check For node version using (node -v)
+Check for npm version using (npm -v)
+Install firebase using (npm install --global firebase-tools)
+
+4th Milestones
+cd ..
+cd ..
+cd Users
+cd hp
+cd desktop
+cd Assignment No{} Form
+firebase login
+Yes
+firebase init
+Yes
+Hosting Click
+Use an Exixting Project
+Click On Your Project
+Yes
+Yes
+Yes
+My Files Cut And Public folder Peste replace
+firebase deploy
+
+Deployment Complete 
